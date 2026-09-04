@@ -1,2 +1,7 @@
 handwritten-digits/data/
-handwritten-digits/src/*.o
+
+*.o
+handwritten-digits/train
+*.dSYM/
+
+.DS_Store
